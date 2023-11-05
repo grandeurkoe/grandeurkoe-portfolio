@@ -2,6 +2,8 @@
 
 My portfolio website, your gateway to my digital world where you can discover my work, skills, and passion for technology.
 
+![Grandeurkoe Portfolio](grandeurkoe-portfolio.gif)
+
 ## Getting Started
 
 ### Prerequisites
@@ -53,3 +55,11 @@ That's it! Your portfolio website should now be live on GitHub Pages and accessi
   <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+## Authors
+
+*Initial work* - [grandeurkoe](https://github.com/grandeurkoe)
+
+## Acknowledgments
+
+Template provided by [BoostrapMade](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/).
